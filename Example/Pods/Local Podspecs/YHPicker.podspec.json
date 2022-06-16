@@ -1,0 +1,24 @@
+{
+  "name": "YHPicker",
+  "version": "0.0.1",
+  "swift_versions": "5.0",
+  "summary": "YHPicker 是一个选择器",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dubuladuo/YHPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "刘勇航": "liuyonghang@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/dubuladuo/YHPicker.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YHPicker/Classes/**/*",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YHPicker (0.0.1)
+
+DEPENDENCIES:
+  - YHPicker (from `../`)
+
+EXTERNAL SOURCES:
+  YHPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHPicker: d61a39db98d788014ec8d2a04ea38ca83426131b
+
+PODFILE CHECKSUM: df21f8785a40af0bf4155bea133e2723303a7525
+
+COCOAPODS: 1.9.3

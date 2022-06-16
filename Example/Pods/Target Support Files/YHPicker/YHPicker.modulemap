@@ -1,0 +1,6 @@
+framework module YHPicker {
+  umbrella header "YHPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
