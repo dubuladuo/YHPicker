@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YHPicker_Example' do
+  pod 'YHPicker', :path => '../'
+
+  target 'YHPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
